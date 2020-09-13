@@ -6,6 +6,8 @@
 I am a certified Cloud Practitioner having good hands-on experience with AWS Cloud.I am familiar with other cloud technologies also like GCP and Azure.
 I am a Poet by heart,Leader by blood and Technocrat by brain .I believe that Kings are not the one who conquer the barren lands but they are the one who conquer hearts.:v:
 
+I was core team member of [DSC Club Charusat 2019-20 ](https://github.com/charusat-gdsc) and currently managing CharuKavya Dhara Poetry club at University level.
+
 
 - 🔭 I’m currently working on AWS Cloud technology 
 - 🌱 I’m currently learning Deep Learning
