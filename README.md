@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am a [certified](https://www.youracclaim.com/badges/9ef476af-e4a5-4d6a-92df-1517467776a7/public_url) Cloud Practitioner having good hands-on experience with AWS Cloud.I am familiar with other cloud technologies also like GCP and Azure.
+I am a [certified](https://www.youracclaim.com/badges/9ef476af-e4a5-4d6a-92df-1517467776a7/public_url) Cloud Practitioner having good hands-on experience with AWS Cloud. I am familiar with other cloud technologies also like GCP and Azure.
 I am a Poet by heart,Leader by blood and Technocrat by brain .I believe that Kings are not the one who conquer the barren lands but they are the one who conquer beating hearts.:v:
 
 I was core team member of [DSC Club Charusat 2019-20 ](https://github.com/charusat-gdsc) and currently managing [CharuKavya Dhara Poetry club](https://instagram.com/charukavyadhara) at [Charusat University](https://www.charusat.ac.in/).
