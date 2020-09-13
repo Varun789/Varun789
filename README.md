@@ -3,6 +3,9 @@
 
 ### Hi there 👋
 
+I am a certified Cloud Practitioner having good hands-on experience with AWS Cloud.I am familiar with other cloud technologies also like GCP and Azure.
+I am a Poet by heart and Orator by blood.I believe that Kings are not the one who conquer the barren lands but they are the one who conquer hearts.:v:
+
 
 - 🔭 I’m currently working on AWS Cloud technology 
 - 🌱 I’m currently learning Deep Learning 
