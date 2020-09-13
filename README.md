@@ -1,9 +1,10 @@
-## Varun Kamal Ladha
-# Spread the v
+# Varun Kamal Ladha
+## Spread the :
+
 ### Hi there 👋
 
-<!--
-**Varun789/Varun789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -15,4 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Education
+| ChanduBhai S Patel Institute of technology | BTech | 8.61*CGPA (till 6sem) | 2021 |
+| -----------------------------------------  |------ |---------------------  | -----|
+| ST. Xavier's High School,Adipur            | HSC   | 75 %                  | 2017 |
+| -----------------------------------------  | ------| -------------------   | ---- |
+| ST. Xavier's High School,Adipur            | SSC   | 85%                   | 2015 | 
+
