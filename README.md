@@ -4,11 +4,11 @@
 ### Hi there 👋
 
 I am a certified Cloud Practitioner having good hands-on experience with AWS Cloud.I am familiar with other cloud technologies also like GCP and Azure.
-I am a Poet by heart and Orator by blood.I believe that Kings are not the one who conquer the barren lands but they are the one who conquer hearts.:v:
+I am a Poet by heart,Leader by blood and Technocrat by brain .I believe that Kings are not the one who conquer the barren lands but they are the one who conquer hearts.:v:
 
 
 - 🔭 I’m currently working on AWS Cloud technology 
-- 🌱 I’m currently learning Deep Learning 
+- 🌱 I’m currently learning Deep Learning
 - 💬 You can ask me about AWS Cloud 
 - 📫 You can reach me [here](www.linkedin.com/in/varunladha) 
 - ⚡ Fun fact: Everything is funny about me :laughing: 
@@ -25,6 +25,8 @@ I am a Poet by heart and Orator by blood.I believe that Kings are not the one wh
 
 ### Languages and Tools:
 
+<img align="left" alt="Aws Cloud" width="26px" src="https://github.com/Varun789/Varun789/blob/master/aws.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://github.com/Varun789/Varun789/blob/master/aws.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
