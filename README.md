@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Education
+| -----                                      |------ | --------------------  | ---- |
 | ChanduBhai S Patel Institute of technology | BTech | 8.61*CGPA (till 6sem) | 2021 |
 | -----------------------------------------  |------ |---------------------  | -----|
 | ST. Xavier's High School,Adipur            | HSC   | 75 %                  | 2017 |
