@@ -41,11 +41,11 @@ I am a Poet by heart,Leader by blood and Technocrat by brain .I believe that Kin
 <img align="left" alt="Kunernetes" width="26px" src="https://camo.githubusercontent.com/5f7467302e996a8c5d3131bef938eb4628176d7dff7a1ccc7b252422b590c07e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b756265726e657465732f6b756265726e657465732d69636f6e2e737667" />
 <img align="left" alt="jenkins" width="26px" src="https://camo.githubusercontent.com/a7ef0988f24446c74d7687f0e9925870feec7865fc3f126efcb5c4617cca602d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667" />
 <img align="left" alt="terraform" width="26px" src="https://camo.githubusercontent.com/ae07bc8da7388555f892c9e115d4b173a0a4da352be18ea9663e4122a55f914a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7465727261666f726d696f2f7465727261666f726d696f2d69636f6e2e737667" />
-
+<img align="left" alt="Nagios" width="26px" src="https://github.com/Varun789/Varun789/blob/master/nagios_logo_icon_169936.png" />
 
 <br />
 
-### Databases & Monitoring
+### Databases
 
 <img align="left" alt="Firebase" width="24px" src="https://github.com/Varun789/Varun789/blob/master/firebase.jpg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
